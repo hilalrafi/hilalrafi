@@ -1,6 +1,6 @@
 ### Hi there, I'm [Hilal](https://www.linkedin.com/in/hilal-rafi-iqbal-sebastian-91a294190/) 👋
 
-- 🌱 I’m currently learning Android & Laravel
+- 🌱 I’m currently learning Android & PHP
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://www.instagram.com/hilalrafi/)
 - 😄 Pronouns: he/him
 
