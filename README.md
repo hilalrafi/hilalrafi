@@ -1,8 +1,7 @@
-### Hi there, I'm [Hilal](https://www.linkedin.com/in/hilal-rafi-iqbal-sebastian-91a294190/) 👋
+### Hi there, I'm [Hilal](https://www.linkedin.com/in/hilalrafi/) 👋
 
-- 🌱 I’m currently learning Android & PHP
+- 🌱 I’m currently learning Android & Web Development
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://www.instagram.com/hilalrafi/)
-- 😄 Pronouns: he/him
 
 ### Github Stats
 
